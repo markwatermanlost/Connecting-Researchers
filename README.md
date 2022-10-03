@@ -1,6 +1,8 @@
 # Connecting-Researchers
 I'm looking for some help with an idea I have to connect research papers (and the researchers) via comparison of numerical values and associated units of measure
 
+Short paper: https://drive.google.com/file/d/1jlTWWBpc_PlkzDoRZZF-H6lm8N5Tc7FJ/view?usp=drivesdk
+
 Proposed method of connecting researchers across generally unconnected disciplines using numerical values mined from research papers and an ongoing feedback process to improve matching algorithms
 Mark Waterman
 Context and Overview
